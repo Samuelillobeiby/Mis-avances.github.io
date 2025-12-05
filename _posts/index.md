@@ -1,6 +1,6 @@
 
 ---
-title: "Primeras funcionalidades implementadas"
+title:"Primeras funcionalidades implementadas"
 date: 2025-01-10
 layout: post
 ---
